@@ -7,9 +7,9 @@ A simple Python project that demonstrates:
 
 Example output :
 Hi User
--What is your username? Ali
--What is your password?
--Welcome to the system, Ali!
+What is your username? Ali
+What is your password?
+Welcome to the system, Ali!
 
 ## How to run
 ```bash
